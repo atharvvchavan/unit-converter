@@ -8,6 +8,7 @@ LENGTH = {  # how many metres in one unit
     "in": 0.0254,
     "ft": 0.3048,
     "mi": 1609.344,
+    "yd": 0.9144,
 }
 
 WEIGHT = {  # how many kilograms in one unit
